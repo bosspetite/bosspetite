@@ -96,16 +96,15 @@ Fitness tracking web app focused on practical frontend logic, user interaction a
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosspetite&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bosspetite&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosspetite&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bosspetite&theme=tokyonight" alt="Repos Per Language" />
 </p>
-
 ---
 
 ## 🐍 Contribution Animation
