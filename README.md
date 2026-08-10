@@ -26,7 +26,7 @@ A full-stack receipt and expense management application with AI-assisted receipt
 
 - Building and shipping full-stack products
 - Strengthening backend engineering and system design
-- Open to Software Engineering internships and junior opportunities
+- Open to Software Engineering internships and job opportunities
 
 ## Contact
 
