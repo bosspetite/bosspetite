@@ -31,4 +31,4 @@ A full-stack receipt and expense management application with AI-assisted receipt
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/bassey-emmanuel-obeys-2a69663b4
-- **Email:** emmanuelbassey0x@gmail.com
+- **Email:** [emmanuelbassey0x@gmail.com](mailto:emmanuelbassey0x@gmail.com)
